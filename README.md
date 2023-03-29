@@ -1,1 +1,1 @@
-# gulp-starter-template is for help to make projects when use gulp 
+this project has breen made by gulp and less compilator 
